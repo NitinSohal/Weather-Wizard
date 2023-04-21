@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Weather-Wizard/static/css/main.5875079e.css",
+    "main.js": "/Weather-Wizard/static/js/main.73a68720.js",
+    "static/media/WeatherIcons.gif": "/Weather-Wizard/static/media/WeatherIcons.c90d089e17d438e81f7e.gif",
+    "static/media/background.jpg": "/Weather-Wizard/static/media/background.ae70b0a450d3510d1b32.jpg",
+    "static/media/city.jpg": "/Weather-Wizard/static/media/city.58dbd7c88d144670784a.jpg",
+    "index.html": "/Weather-Wizard/index.html",
+    "main.5875079e.css.map": "/Weather-Wizard/static/css/main.5875079e.css.map",
+    "main.73a68720.js.map": "/Weather-Wizard/static/js/main.73a68720.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5875079e.css",
+    "static/js/main.73a68720.js"
+  ]
+}
